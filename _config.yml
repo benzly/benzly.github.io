@@ -1,6 +1,6 @@
 # Site settings
-title: Benzly Blog
-SEOTitle: Benzly的博客 | Benzly Blog
+title: Benzly的博客
+SEOTitle: Benzly Blog
 header-img: img/home-bg.jpg
 email: benzly@outlook.com
 description: "Yeah 这是描述"
@@ -86,10 +86,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "淘宝",
-        href: "http://taobao.com"
+        title: "Google",
+        href: "http://google.com"
     },{
-        title: "天猫",
-        href: "http://tiaomao.com"
+        title: "微博",
+        href: "https://weibo.com"
     }
 ]
