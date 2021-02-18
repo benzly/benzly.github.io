@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: benzly@outlook.com
 description: "关于程序与设计、黑客与画家 | 黄玄，Software Engineer，UX Designer | 这里是 @Benzly 的个人博客，与你一起发现更大的世界。"
 keyword: "Benzly, 单栈, android, APP, @benzly, Benzly Blog, 博客, 个人网站, 互联网, Web"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://benzly.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     benzly
+zhihu_username:     benzly
+github_username:    benzly
+twitter_username:   benzly
 
 
 
@@ -57,7 +57,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: benzly
 
 # Netease settings
 netease_comment: false
@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: benzly.github.io
 
 
 
