@@ -101,3 +101,5 @@ url: http://benzly.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+
+theme: jekyll-theme-cayman
