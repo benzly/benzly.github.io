@@ -10,19 +10,20 @@ layout: default
 {% include intro-header.html type='post' %}
 
 <!-- Post Content -->
-<article>
+
+<!--<article>
     <div class="container">
         <div class="row">
 
-    <!-- Post Container -->
+    &lt;!&ndash; Post Container &ndash;&gt;
             <div class="
                 col-lg-8 col-lg-offset-2
                 col-md-10 col-md-offset-1
                 post-container">
 
-                <!-- Multi-Lingual -->
+                &lt;!&ndash; Multi-Lingual &ndash;&gt;
                 {% if page.multilingual %}
-                <!-- Language Selector -->
+                &lt;!&ndash; Language Selector &ndash;&gt;
                 <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
                     <option value="0" selected> 中文 Chinese </option>
                     <option value="1"> 英文 English </option>
@@ -53,21 +54,21 @@ layout: default
                 <hr style="visibility: hidden;">
 
                 {% if site.disqus_username %}
-                <!-- disqus 评论框 start -->
+                &lt;!&ndash; disqus 评论框 start &ndash;&gt;
                 <div class="comment">
                     <div id="disqus_thread" class="disqus-thread"></div>
                 </div>
-                <!-- disqus 评论框 end -->
+                &lt;!&ndash; disqus 评论框 end &ndash;&gt;
                 {% endif %}
 
                 {% if site.netease_comment %}
-                <!-- 网易云跟帖 评论框 start -->
+                &lt;!&ndash; 网易云跟帖 评论框 start &ndash;&gt;
                 <div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
-                <!-- 网易云跟帖 评论框 end -->
+                &lt;!&ndash; 网易云跟帖 评论框 end &ndash;&gt;
                 {% endif %}
             </div>  
 
-    <!-- Side Catalog Container -->
+    &lt;!&ndash; Side Catalog Container &ndash;&gt;
         {% if page.catalog %}
             <div class="
                 col-lg-2 col-lg-offset-0
@@ -84,29 +85,29 @@ layout: default
             </div>
         {% endif %}
 
-    <!-- Sidebar Container -->
+    &lt;!&ndash; Sidebar Container &ndash;&gt;
             <div class="
                 col-lg-8 col-lg-offset-2
                 col-md-10 col-md-offset-1
                 sidebar-container">
 
-                <!-- Featured Tags -->
+                &lt;!&ndash; Featured Tags &ndash;&gt;
                 {% include featured-tags.html bottom=true %}
 
-                <!-- Friends Blog -->
+                &lt;!&ndash; Friends Blog &ndash;&gt;
                 {% include friends.html %}
             </div>
         </div>
     </div>
 </article>
 
-<!-- add support for mathjax by voleking-->
+&lt;!&ndash; add support for mathjax by voleking&ndash;&gt;
 {% if page.mathjax %}
   {% include mathjax_support.html %}
 {% endif %}
 
 {% if site.netease_comment %}
-<!-- 网易云跟帖JS代码 start -->
+&lt;!&ndash; 网易云跟帖JS代码 start &ndash;&gt;
 <script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
 <script>
   var cloudTieConfig = {
@@ -118,8 +119,8 @@ layout: default
   var yunManualLoad = true;
   Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s", true);
 </script>
-<!-- 网易云跟帖JS代码 end -->
-{% endif %}
+&lt;!&ndash; 网易云跟帖JS代码 end &ndash;&gt;
+{% endif %}-->
 
 
 {% if site.disqus_username %}
