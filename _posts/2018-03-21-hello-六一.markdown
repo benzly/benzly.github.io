@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      "Hello 2018"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2018-03-21 12:00:00
+author:     "Benzly"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 生活
+    - Meta
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+略
+
+## 正文
+略
+
+
+## 后记
+
+一时想不起当初为何建的个人站，好像是当时想换工作，然后想把做过的一些有趣的东西记录下来。
+
+—— benzly 后记于 2021.02
+
+
