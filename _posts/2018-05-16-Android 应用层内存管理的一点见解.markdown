@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "Android 应用层内存管理的一点见解"
+subtitle:   " \"s\""
+date:       2018-05-16 12:00:00
+author:     "Benzly"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - android
+    - 隐藏录像
+---
+
+> “Yeah It's on. ”
+
+
+需求:
+-支持后台拍照、录像
+-支持自定义水印
+
+
+
+https://github.com/natario1/CameraView

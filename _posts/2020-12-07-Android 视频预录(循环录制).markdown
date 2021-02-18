@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Android后台拍录"
+title:      "Android 视频预录(循环录制)"
 subtitle:   " \"s\""
-date:       2018-03-21 12:00:00
+date:       2020-12-07 12:00:00
 author:     "Benzly"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
