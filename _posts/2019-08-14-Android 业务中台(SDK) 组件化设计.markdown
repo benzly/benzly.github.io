@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Android后台拍录"
+title:      "android 业务中台(SDK) 组件化设计"
 subtitle:   " \"s\""
-date:       2018-03-21 12:00:00
+date:       2019-08-14 12:00:00
 author:     "Benzly"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
