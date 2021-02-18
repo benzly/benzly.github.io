@@ -1,0 +1,27 @@
+---
+layout:     post
+title:      "Android后台拍录"
+subtitle:   " \"s\""
+date:       2018-03-21 12:00:00
+author:     "Benzly"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - android
+    - 隐藏录像
+---
+
+> “Yeah It's on. ”
+
+
+需求:
+-支持后台拍照、录像
+-支持自定义水印
+
+
+
+https://github.com/natario1/CameraView
+
+
+
+
