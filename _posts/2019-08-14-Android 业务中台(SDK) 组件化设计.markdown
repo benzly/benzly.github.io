@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "android 业务中台(SDK) 组件化设计"
+title:      "Android 业务中台(SDK) 组件化设计"
 subtitle:   " \"s\""
 date:       2019-08-14 12:00:00
 author:     "Benzly"
